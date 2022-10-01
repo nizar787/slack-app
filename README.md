@@ -28,3 +28,7 @@ Slack 2.0 web app has the following features
 - React Hooks
 - Firebase Hooks
 
+
+
+  Author nizar slack app
+
